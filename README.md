@@ -1,2 +1,2 @@
-# mcp-automation-services
-Landing page profesional para servicios de configuración de servidores MCP y automatización de procesos. Incluye pasarela de pago PayPal.
+# MCP Automation Services
+Configuración profesional de servidores MCP para desarrolladores y empresas. Contacto: santosycanallas@gmail.com
